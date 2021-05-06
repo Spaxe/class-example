@@ -2,6 +2,7 @@ let bg;
 let fg;
 let layer;
 
+
 function setup() {
   createCanvas(400, 400);
   layer = createGraphics(400, 400);
